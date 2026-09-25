@@ -15,8 +15,22 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on the Googl
 5. **Genre Benchmarks:** Specialized categories (e.g., Comics, Education) sustain higher median satisfaction scores than high-friction casual categories.
 
 ## Visualizations
-![Size Distribution](images/size_distribution.png)
-![Ratings across Content Ratings](images/ratings_by_content_rating.png)
-![Install Bins vs Ratings](images/install_bins_vs_rating.png)
-![Monthly Updates Trend](images/monthly_updates.png)
-![Genre Benchmarks](images/genre_benchmarks.png)
+
+### App Update Volume Trend (2016 - 2018)
+![App Update Volume Trend](Images/Q2_%20App%20Update%20Volume%20Trend%20(2016%20-%202018).png)
+
+### App Rating Distribution by Install Tier
+![App Rating Distribution](Images/Q3_%20App%20Rating%20Distribution%20by%20Install%20Tier.png)
+
+### Highest vs Lowest Rated Genres
+![Highest vs Lowest Rated Genres](Images/Q5_%20Highest%20vs%20Lowest%20Rated%20Genres%20(Mean%20Rating,%20N%20_=%2030).png)
+
+### Size vs Installs
+![Size vs Installs](Images/Scatter%20Plot_%20Size%20vs%20Installs.png)
+
+### Top 5 Categories by Total Installs
+![Top 5 Categories](Images/Top%205%20Categories%20by%20Total%20Installs%20(Billions).png)
+
+### App Size Distribution
+![App Size Distribution](Images/app_size_distribution.png)
+
