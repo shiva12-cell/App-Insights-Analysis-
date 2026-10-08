@@ -1,5 +1,5 @@
 # App Insights Analysis — Google Play Store
-- 
+
 - **Core Scope:** End-to-end Exploratory Data Analysis (EDA) examining metadata across 10,800+ Android applications and 64,000+ user reviews to evaluate market viability, pricing elasticity, APK footprint, update frequency, and user sentiment drivers.
 
 ---
